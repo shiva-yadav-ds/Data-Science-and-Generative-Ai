@@ -6,22 +6,17 @@ This repository is a complete collection of my hands-on learning journey in **Da
 
 ## 📂 Folder Structure
 
-📁 1.Python Fundamentals
-├── 00_Python_Basics.ipynb
-├── 01_list_tuple_set.ipynb
-├── 02_Dictionary_Statements_conditional.ipynb
-├── 03_For_Loop_Practice.ipynb
-├── 04_while_loop_practice.ipynb
-├── 05_Comprehension.ipynb
-├── 06_working_with_files.ipynb
-├── 07_Exception_Handling_(try_except).ipynb
-└── 08_Exception_handling_(best_practice).ipynb
+1.Python Fundamentals
+ - 00_Python_Basics.ipynb
+ - 01_list_tuple_set.ipynb
+ - 02_Dictionary_Statements_conditional.ipynb
+ -  03_For_Loop_Practice.ipynb
+ - 04_while_loop_practice.ipynb
+ - 05_Comprehension.ipynb
+ - 06_working_with_files.ipynb
+ - 07_Exception_Handling_(try_except).ipynb
+ - 08_Exception_handling_(best_practice).ipynb
 
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Topics Covered
 
