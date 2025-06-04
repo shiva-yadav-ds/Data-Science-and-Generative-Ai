@@ -6,7 +6,7 @@ This repository is a complete collection of my hands-on learning journey in **Da
 
 ## 📂 Folder Structure
 
-1.Python Fundamentals
+**1.Python Fundamentals**
  - 00_Python_Basics.ipynb
  - 01_list_tuple_set.ipynb
  - 02_Dictionary_Statements_conditional.ipynb
