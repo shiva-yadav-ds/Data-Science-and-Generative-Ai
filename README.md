@@ -6,31 +6,49 @@ This repository is a complete collection of my hands-on learning journey in **Da
 
 ## 📂 Folder Structure
 
-**1.Python Fundamentals**
+**01_Python Fundamentals**
  - 00_Python_Basics.ipynb
  - 01_list_tuple_set.ipynb
  - 02_Dictionary_Statements_conditional.ipynb
- -  03_For_Loop_Practice.ipynb
+ - 03_For_Loop_Practice.ipynb
  - 04_while_loop_practice.ipynb
  - 05_Comprehension.ipynb
  - 06_working_with_files.ipynb
  - 07_Exception_Handling_(try_except).ipynb
  - 08_Exception_handling_(best_practice).ipynb
+ - 09_Exception_Handling_(custom_exception).ipynb
+ - 10_Decorators.ipynb
+ - 11_Generator_function.ipynb
+ - 12_lamda_function.ipynb
+ - 13_Map,_reduce_and_filter_function.ipynb
+ - 14_Reading_and_writing_files.ipynb
+ - 15_Buffer_read_&_other_file_method.ipynb
+ - 16_logging_and_Debugger.ipynb
+ - 17_Module and import statements/
+	- myskills/
+		- course/
+			- course_details.py
+		- payment/
+			- payments_details.py
+ - 18_sets.ipynb
+ - 19_list_of_geeral_use_exception.ipynb
 
+**02_Object Oriented Programming**
+ - 00_Opps_Part_1.ipynb
+ - 01_Opps_Part_2_Inheritance.ipynb
+ - 02_Encapsulation.ipynb
 
-## 🚀 Topics Covered
+## � Topics Covered
 
-- Python Fundamentals for Data Science
-- Data Structures (Lists, Tuples, Sets, Dictionaries)
-- Conditional Statements and Loops
-- File Handling and Exception Handling
-- Comprehensions for Cleaner Code
+ - Custom Exceptions and Best Practices
+ - Decorators, Generators, Lambda Functions
+ - Functional Programming (map, reduce, filter)
+ - Logging and Debugging
+ - Modules and Import Statements
+ - Object Oriented Programming (OOP, Inheritance, Encapsulation)
+ - Practical Python Exercises and Real-world Examples
 
 📌 *More folders will be added soon for:*
-- Data Analysis (NumPy, Pandas, Matplotlib, Seaborn)
-- Machine Learning (Scikit-Learn)
-- Deep Learning & Generative AI (NLP, Transformers, etc.)
-- Projects and Case Studies
 
 ---
 
