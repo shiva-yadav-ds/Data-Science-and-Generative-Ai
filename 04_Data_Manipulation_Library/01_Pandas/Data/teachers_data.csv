@@ -1,0 +1,4 @@
+teachers,subjects,years_of_experience,is_full_time
+Alice,Math,5,True
+Bob,Science,10,True
+Charlie,History,3,False
