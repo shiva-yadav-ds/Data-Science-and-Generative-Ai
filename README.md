@@ -4,8 +4,6 @@ A structured, hands-on journey through Python, Data Science, and Generative AI -
 
 This repository is my personal learning archive and practical guide to mastering Data Science and Generative AI, step-by-step. Every notebook reflects real-world practice, problem-solving, and conceptual clarity - perfect for beginners and intermediate learners alike.
 
-## Updated Folder Structure (2025)
-
 .
 ├── 01_Python_Fundamentals/
 │   ├── 00_Python_Basics.ipynb
