@@ -80,54 +80,6 @@ This repository is my personal learning archive and practical guide to mastering
 └── README.md
 ```
 
-## Topics Covered
-
-### 1. Python Fundamentals
-- Variables, Data Types & Operators
-- Control Flow (if, elif, else)
-- Loops (for, while)
-- List, Tuple, Set, Dictionary Operations
-- List Comprehensions & Generator Expressions
-- File Handling & Buffer Reading
-- Exception Handling (Try/Except, Custom Exceptions)
-- Decorators, Lambda Functions, Map/Reduce/Filter
-- Logging & Debugging
-- Modules & Packages (with custom module example: `myskills`)
-
-### 2. Object-Oriented Programming (OOP)
-- Classes & Objects
-- Inheritance & Method Overriding
-- Encapsulation & Access Modifiers
-- Abstraction & Abstract Base Classes
-- Polymorphism
-- Class Methods, Static Methods
-- Dunder/Magic Methods (`__init__`, `__str__`, etc.)
-- Property Decorators (Getters, Setters, Deleters)
-
-### 3. Advanced Python Concepts
-- Multithreading for Concurrent Execution
-- Multiprocessing for CPU-Intensive Tasks
-
-### 4. Data Manipulation Libraries
-
-#### Pandas
-- Reading CSV files
-- Working with Series & DataFrames
-- Filtering, Sorting, Grouping
-- Merging & Joining DataFrames
-- Real-world analysis: Squirrel Census & Teacher Data
-
-#### NumPy
-- Arrays & Array Operations
-- Broadcasting, Indexing, Slicing
-- Mathematical Functions & Statistical Analysis
-
-### 5. Data Visualization
-- Matplotlib: Basic Plots & Customization
-- Seaborn: Statistical Visualizations
-- Plotly: Interactive Charts
-- Bokeh: Web-Based Dashboards
-
 ## Why This Repo?
 
 | Feature                | Benefit                                               |
