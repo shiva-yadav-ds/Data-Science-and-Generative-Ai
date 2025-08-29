@@ -1,9 +1,12 @@
-# Data Science & Generative AI - Practical Learning Repository
+# Data Science & Generative AI — Practical Learning Repository
 
-A structured, hands-on journey through Python, Data Science, and Generative AI - built for learners, by a learner.
+A structured, hands-on journey through Python, Data Science, and Generative AI — built for learners, by a learner.
 
-This repository is my personal learning archive and practical guide to mastering Data Science and Generative AI, step-by-step. Every notebook reflects real-world practice, problem-solving, and conceptual clarity - perfect for beginners and intermediate learners alike.
+This repository is my personal learning archive and practical guide to mastering Data Science and Generative AI, step-by-step. Every notebook reflects real-world practice, problem-solving, and conceptual understanding.
 
+## Repository Structure
+
+```
 .
 ├── 01_Python_Fundamentals/
 │   ├── 00_Python_Basics.ipynb
@@ -75,36 +78,37 @@ This repository is my personal learning archive and practical guide to mastering
 │
 ├── LICENSE
 └── README.md
+```
 
 ## Topics Covered
 
-### Python Fundamentals
+### 1. Python Fundamentals
 - Variables, Data Types & Operators
 - Control Flow (if, elif, else)
 - Loops (for, while)
 - List, Tuple, Set, Dictionary Operations
 - List Comprehensions & Generator Expressions
 - File Handling & Buffer Reading
-- Exception Handling (Try-Catch, Custom Exceptions)
+- Exception Handling (Try/Except, Custom Exceptions)
 - Decorators, Lambda Functions, Map/Reduce/Filter
 - Logging & Debugging
-- Modules & Packages (Custom Module Example: myskills)
+- Modules & Packages (with custom module example: `myskills`)
 
-### Object-Oriented Programming (OOP)
+### 2. Object-Oriented Programming (OOP)
 - Classes & Objects
 - Inheritance & Method Overriding
 - Encapsulation & Access Modifiers
 - Abstraction & Abstract Base Classes
 - Polymorphism
 - Class Methods, Static Methods
-- Dunder/Magic Methods (__init__, __str__, etc.)
+- Dunder/Magic Methods (`__init__`, `__str__`, etc.)
 - Property Decorators (Getters, Setters, Deleters)
 
-### Advanced Python Concepts
+### 3. Advanced Python Concepts
 - Multithreading for Concurrent Execution
 - Multiprocessing for CPU-Intensive Tasks
 
-### Data Manipulation Libraries
+### 4. Data Manipulation Libraries
 
 #### Pandas
 - Reading CSV files
@@ -118,7 +122,7 @@ This repository is my personal learning archive and practical guide to mastering
 - Broadcasting, Indexing, Slicing
 - Mathematical Functions & Statistical Analysis
 
-### Data Visualization
+### 5. Data Visualization
 - Matplotlib: Basic Plots & Customization
 - Seaborn: Statistical Visualizations
 - Plotly: Interactive Charts
@@ -126,25 +130,25 @@ This repository is my personal learning archive and practical guide to mastering
 
 ## Why This Repo?
 
-| Feature | Benefit |
-|---------|---------|
-| Step-by-step progression | Builds from basics to advanced concepts |
-| Hands-on notebooks | Real code + explanations + visuals |
-| Real datasets | Practice with actual data (squirrels, weather, teachers) |
-| Best practices | Clean code, error handling, modularity |
-| Learning log | Track your growth in data science fundamentals |
-| Future-ready path | Foundation for Generative AI & ML projects |
+| Feature                | Benefit                                               |
+|------------------------|------------------------------------------------------|
+| Step-by-step progression | Builds from basics to advanced concepts              |
+| Hands-on notebooks     | Real code, explanations, and visuals                  |
+| Real datasets          | Practice with actual data (squirrels, weather, teachers) |
+| Best practices         | Clean code, error handling, modularity                |
+| Learning log           | Track your growth in data science fundamentals        |
+| Future-ready path      | Foundation for Generative AI & ML projects            |
 
 ## Purpose
 
 This repository serves as:
 
-- A personal learning journal - track what you've learned
-- A beginner's roadmap - start from zero and grow systematically
-- A practical toolkit - build confidence with real code
-- A launchpad - transition into Machine Learning & Generative AI
+- A personal learning journal — track what you've learned
+- A beginner's roadmap — start from zero and grow systematically
+- A practical toolkit — build confidence with real code
+- A launchpad — transition into Machine Learning & Generative AI
 
-More folders coming soon:
+### Coming Soon
 - Machine Learning Basics
 - Deep Learning with PyTorch/TensorFlow
 - Natural Language Processing (NLP)
@@ -153,17 +157,20 @@ More folders coming soon:
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and share it responsibly.
+This project is licensed under the MIT License.  
+Feel free to use, modify, and share it responsibly.
 
 ## Connect With Me
 
 If this helped you or you'd like to collaborate, reach out!
 
-- GitHub: shiva-yadav-ds
+- **GitHub:** [shiva-yadav-ds](https://github.com/shiva-yadav-ds)
 - Open an issue or submit a pull request
-- Let me know what topics you'd like next
+- Let me know what topics you'd like next!
 
-Don't forget to star the repo if you found it useful - it motivates me to keep improving!
+**Don't forget to star the repo if you found it useful — it motivates me to keep improving!**  
 Follow along as I add Generative AI, ML pipelines, and real-world projects.
+
+---
 
 Keep learning. Keep building.
